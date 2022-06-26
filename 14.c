@@ -43,7 +43,3 @@ char charMaisfreq (char s[]) {
     return resultado;
 }
 
-
-rogramaçao imperativa ; a = 4; r = 3;
-expected 'a'
-recebe 'r'
