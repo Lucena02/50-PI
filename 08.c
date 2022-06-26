@@ -6,4 +6,6 @@ char *mystrcpy (char *dest, char source[]) {
         dest[i] = source[i];
     }
     dest[i] = '\0';
+    
+    return dest;
 }
